@@ -1,4 +1,4 @@
-package com.applinkorg.cameraxmlkit;
+package org.applink.demo;
 
 import org.junit.Test;
 

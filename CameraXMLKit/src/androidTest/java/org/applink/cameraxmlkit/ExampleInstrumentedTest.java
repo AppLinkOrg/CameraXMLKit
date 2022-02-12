@@ -1,4 +1,4 @@
-package com.applinkorg.cameraxmlkit;
+package org.applink.cameraxmlkit;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.applinkorg.cameraxmlkit", appContext.getPackageName());
+        assertEquals("org.applink.cameraxmlkit.test", appContext.getPackageName());
     }
 }
